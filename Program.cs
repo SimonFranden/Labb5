@@ -1,4 +1,5 @@
-﻿namespace Labb5
+﻿//Net22 Simon Frändén
+namespace Labb5
 {
     class Program
     {
